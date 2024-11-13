@@ -9,6 +9,7 @@ Welcome to the repository of delicious recipes! Here, you’ll find recipes for 
 - **Ribs**: A juicy and irresistible cut of meat 🥩, prepared in a special way.
 
 ### Useful Links
+<<<<<<< HEAD
 - [Feijoada](./Feijoada/recipe.md)
 - [Gnocchi](./Nhoque/recipe.md)
 - [Ribs](./Costela/recipe.md)
